@@ -1,0 +1,50 @@
+
+2021-02-03T15:40:27.608Z ----- TypeError: exception is not a function
+2021-02-03T15:41:30.396Z ----- TypeError: exception is not a function
+2021-02-03T15:42:33.093Z ----- TypeError: exception is not a constructor
+2021-02-08T07:23:35.590Z ----- ReferenceError: validationResult is not defined
+2021-02-08T07:31:20.086Z ----- TypeError: Cannot read property 'msg' of undefined
+2021-02-08T07:35:16.740Z ----- ReferenceError: errors is not defined
+2021-02-08T07:35:39.222Z ----- ReferenceError: errors is not defined
+2021-02-08T07:35:58.504Z ----- ReferenceError: errors is not defined
+2021-04-06T11:25:39.250Z ----- TypeError: Cannot read property 'Email' of undefined
+2021-04-06T11:27:18.652Z ----- TypeError: Cannot read property 'Email' of undefined
+2021-04-06T11:33:34.195Z ----- TypeError: Cannot read property 'Email' of undefined
+2021-04-07T07:04:01.741Z ----- ReferenceError: mongo is not defined
+2021-04-07T07:06:04.748Z ----- TypeError: globals._dbs.collection(...).deleteOne(...).toArray is not a function
+2021-04-07T07:12:17.952Z ----- ReferenceError: ID is not defined
+2021-04-07T10:56:22.394Z ----- TypeError: req.body.Email.isEmpty is not a function
+2021-04-07T11:02:48.570Z ----- TypeError: Cannot read property 'isEmpty' of undefined
+2021-04-07T11:04:44.505Z ----- TypeError: Cannot read property 'isEmpty' of undefined
+2021-04-07T11:18:54.085Z ----- TypeError: Cannot read property 'isEmpty' of undefined
+2021-04-07T11:19:57.169Z ----- TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2021-04-07T11:25:44.982Z ----- ReferenceError: validationError is not defined
+2021-04-07T11:26:39.107Z ----- TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2021-04-07T12:20:04.971Z ----- ReferenceError: validationError is not defined
+2021-04-07T13:38:05.935Z ----- TypeError: Cannot read property 'isEmpty' of undefined
+2021-04-07T13:40:09.623Z ----- TypeError: Cannot read property 'isEmpty' of undefined
+2021-04-08T00:56:14.738Z ----- Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2021-04-08T00:58:24.550Z ----- Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2021-04-08T05:10:00.496Z ----- ReferenceError: err is not defined
+2021-04-08T05:57:11.279Z ----- ReferenceError: err is not defined
+2021-04-08T08:22:51.610Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:23:01.202Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:23:35.471Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:24:13.253Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:24:31.127Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:26:24.924Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:29:29.958Z ----- Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2021-04-08T08:30:25.975Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:31:12.281Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:33:07.246Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:33:35.275Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:39:44.393Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:40:36.243Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:41:09.185Z ----- TypeError: globals._dbs.collection(...).update(...).toArray is not a function
+2021-04-08T08:46:06.166Z ----- ReferenceError: result is not defined

@@ -1,0 +1,10 @@
+{
+    "responses": {
+        "successStatus": "success",
+        "errorStatus": "error",
+        "commonSuccessMessage": "Event Successfull.",
+        "commonErrorMessage": "An error occured! Please try after sometime or contact to our support team.",
+        "commonBlankData": []
+    },
+    "_dbs" : null
+}
